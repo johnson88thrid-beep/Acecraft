@@ -1,0 +1,8 @@
+[System.Serializable]
+public class AcecraftPilot {
+    public string pilotName = "iii Johnson Dalton";
+    public string callsign = "DALTON42";
+    public uint  modeS_ID = 0x7D8A28;        // 2102170656 -> ICAO24
+    public long  uid = 2150615462L;          // Unique pilot ID
+    public int   styleRank = 85;
+}
